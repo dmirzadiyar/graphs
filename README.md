@@ -218,7 +218,7 @@ The result matches the expected complexity because the running time grows togeth
 ## E. Screenshots
 
 
-![graph](docs/screenshots/graph1.png)
+![graph](docs/screenshots/Screenshot-2026-05-09-150058.png)
 ![graph](docs/screenshots/graph2.png)
 
 
@@ -259,25 +259,7 @@ This assignment helped me understand how graphs can be represented in Java using
 
 The main difference between BFS and DFS is the way they explore a graph. BFS uses a queue and visits vertices level by level. DFS uses a stack and goes deep into one branch before returning. The most challenging part was making sure that vertices were not visited more than once and that the graph worked correctly for different sizes.
 
----
 
-## GitHub Commit Storyline
-
-Suggested commits:
-
-```text
-init: project structure
-feat(vertex): implemented Vertex class
-feat(edge): added Edge class
-feat(graph): implemented adjacency list
-feat(traversal): added BFS and DFS
-feat(experiment): added performance testing
-docs(readme): added analysis and results
-perf(cleanup): improved code
-release: v1.0
-```
-
----
 
 ## How to Run
 
