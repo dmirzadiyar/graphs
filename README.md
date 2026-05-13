@@ -218,7 +218,7 @@ The result matches the expected complexity because the running time grows togeth
 ## E. Screenshots
 
 
-![graph](docs/screenshots/Screenshot-2026-05-09-150058.png)
+![graph](docs/screenshots/graph1.png)
 ![graph](docs/screenshots/graph2.png)
 
 
